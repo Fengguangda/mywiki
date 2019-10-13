@@ -43,8 +43,8 @@ source_suffix = ['.rst','.md']
 master_doc = 'index'
 
 # General information about the project.
-project = u'MING\'s BLOG' 
-copyright = u'2018, 小明同学'
+project = u'冯光大\'s BLOG' 
+copyright = u'2018, Rose'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -57,7 +57,7 @@ release = '1.0.0'
 
 exclude_patterns = []
 
-html_theme = 'default'
+html_theme = 'sphinx_rtd_theme'
 
 html_static_path = ['_static']
 
